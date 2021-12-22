@@ -10,7 +10,7 @@ Si quieres saber más sobre mí te dejo mi blog [dev4phones](https://dev4phones.
 ## 🧰 Portfolio:
 [Mi Portfolio](https://dev4phones.wordpress.com/porfolio/) y todas mis apps de Android están en [Mi página de desarrollador en Gplay](https://play.google.com/store/apps/dev?id=8979891956711794454)
 
-## 🧰 Tech Stack:
+## ⚡ Tech Stack:
 Java, Kotlin, Swift, SwifUI, Javascript, HTML, PHP, JQuery, MarkDown
 
 ## 🛠 Herramientas y recursos
