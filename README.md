@@ -7,6 +7,9 @@ Desarrollador de aplicaciones para smartphone, especializado en crear apps nativ
 Actualmente ampliado conocimientos sobre  Swift y SwiftUI.
 Si quieres saber más sobre mí te dejo mi blog [dev4phones](https://dev4phones.wordpress.com/)
 
+## 🧰 Portfolio:
+[Mi Portfolio](https://dev4phones.wordpress.com/porfolio/) y todas mis apps de Android están en [Mi página de desarrollador en Gplay](https://play.google.com/store/apps/dev?id=8979891956711794454)
+
 ## 🧰 Tech Stack:
 Java, Kotlin, Swift, SwifUI, Javascript, HTML, PHP, JQuery, MarkDown
 
